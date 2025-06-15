@@ -1,3 +1,2 @@
-in [`Genesis`](https://elvirabezrukova.github.io/genesis/)
-# Генезис
+# in [`Genesis`](https://elvirabezrukova.github.io/genesis/)
 Разработка брендбука
