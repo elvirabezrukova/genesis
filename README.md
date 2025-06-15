@@ -1,2 +1,2 @@
-## [`Genesis`](https://elvirabezrukova.github.io/genesis/)
+## [`GENESIS`](https://elvirabezrukova.github.io/genesis/)
 Разработка брендбука
